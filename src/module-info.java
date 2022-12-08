@@ -1,9 +1,0 @@
-/**
- * 
- */
-/**
- * @author Данила
- *
- */
-module MaTypblM {
-}
