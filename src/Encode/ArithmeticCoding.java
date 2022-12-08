@@ -14,7 +14,7 @@ public class ArithmeticCoding {
         return segment;
     }
 
-    double arithmeticCoding(char[] letters, double[] probability, String s) {
+    public double arithmeticCoding(char[] letters, double[] probability, String s) {
         Segment[] segments = defineSegments(letters, probability);
         double left = 0;
         double right = 1;
